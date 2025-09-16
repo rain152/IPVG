@@ -1,4 +1,4 @@
-# Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations
+# [MultiMedia 2025] IPVG-STD
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2507.04705)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -7,7 +7,7 @@
 
 ## Abstract
 
-This repository contains the official implementation of "Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations". Our method addresses the challenge of maintaining identity consistency in text-to-video generation through a novel spatial-temporal decoupled approach.
+This repository contains the official implementation of our paper "Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations". Our method addresses the challenge of maintaining identity consistency in text-to-video generation through a novel spatial-temporal decoupled approach.
 
 ## 🔧 Environment Setup
 
