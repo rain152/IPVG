@@ -161,10 +161,11 @@ MM-IPVG/
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{your2025identity,
+@article{wang2025identity,
   title={Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  author={Wang, Yuji and Li, Moran and Hu, Xiaobin and Yi, Ran and Zhang, Jiangning and Feng, Han and Cao, Weijian and Wang, Yabiao and Wang, Chengjie and Ma, Lizhuang},
+  journal={arXiv e-prints},
+  pages={arXiv--2507},
   year={2025}
 }
 ```
