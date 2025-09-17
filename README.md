@@ -1,4 +1,4 @@
-# [MultiMedia 2025] IPVG-STD
+# IPVG-STD: Spatial-Temporal Decoupled Identity Preserving Video Generation [MM 2025]
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2507.04705)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
