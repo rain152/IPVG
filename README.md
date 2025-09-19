@@ -2,10 +2,17 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2507.04705)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Challenge](https://img.shields.io/badge/IPVG_Challenge-2nd_Place-gold)](https://hidream-ai.github.io/ipvg-challenge.github.io)
 
-**Accepted by ACM Multimedia 2025**
+**Accepted by ACM Multimedia 2025**  
 
-## Abstract
+## 🏆 Competition Achievement
+
+🥈 **2nd Place Winner** in the [Identity-Preserving Video Generation Challenge](https://hidream-ai.github.io/ipvg-challenge.github.io)!
+
+Our spatial-temporal decoupled approach has been validated through rigorous competition evaluation, demonstrating superior performance in identity-preserving video generation tasks. This repository contains the complete implementation of our award-winning method.
+
+## 📝 Overview
 
 This repository contains the official implementation of our paper "Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations". Our method addresses the challenge of maintaining identity consistency in text-to-video generation through a novel spatial-temporal decoupled approach.
 
@@ -176,6 +183,8 @@ This work builds upon:
 - [Wan2.2](https://github.com/Wan-Video/Wan2.2) for video generation capabilities
 - [ComfyUI-HyperLoRA](https://github.com/bytedance/ComfyUI-HyperLoRA) for identity-preserving image generation
 - The open-source community for various tools and libraries
+
+We are grateful to the organizers of the [Identity-Preserving Video Generation Challenge](https://hidream-ai.github.io/ipvg-challenge.github.io) for providing a platform to evaluate and showcase our method.
 
 ## 📜 License
 
